@@ -6,7 +6,6 @@
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview",
-        "deploy": "gh-pages -d dist"
     },
     "devDependencies": {
         "gh-pages": "^4.0.0",
@@ -15,5 +14,5 @@
     "dependencies": {
         "three": "^0.142.0"
     },
-    "homepage": "https://leslieyip02.github.io/tennis"
+    "homepage": "https://github.com/shubh042/10-is-fr"
 }
